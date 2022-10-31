@@ -5,4 +5,4 @@
 - 🔗 Estou no LinkedIn também, link do perfil: https://www.linkedin.com/in/mozarlima86/
 - ✅ Feedbacks são sempre importantes :D
 
-![AlarmingVeneratedArgentinehornedfrog-small](https://user-images.githubusercontent.com/89784637/199070527-f2824705-c65d-4275-9ccd-e1f79fbfa3e9.gif)
+![dev](https://user-images.githubusercontent.com/89784637/199079698-53d8dff1-b15e-4abb-823a-bfbae46ceb7d.gif)
