@@ -1,0 +1,5 @@
+- 👋 Olá, meu nome é Mozar Lima!!!
+- 👀 Estou começando minha carreira, quero ser um desenvolvedor
+- 🌱 Por enquanto, estou aprendendo Javascript, Node, HTML5 e CSS3
+- 💞️ Estou aguardando um projeto iniciar, será solidário, para criar uma landing page de doações.
+- 📫 Estou no LinkedIn também, olha o link: https://www.linkedin.com/in/mozarlima86/
