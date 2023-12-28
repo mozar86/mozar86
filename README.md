@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Mozar Lima!
 - 👀 Estou começando minha carreira como desenvolvedor...
-- 🌱 Por enquanto, estou aprendendo Git e Github, HTML, CSS e Javascript. Sempre vai ter coisa nova por aqui! Criar e ver acontecer é simplesmetne fantástico!!!
+- 🌱 Por enquanto, estou aprendendo Git e Github, HTML, CSS e Javascript. Criar e ver acontecer é simplesmente fantástico!!!
 - 🔥 Estou cursando a Formação Fullstack da Árnia, e tenho a certeza que é só o começo!
 - 🔗 Estou no LinkedIn também, link do perfil: https://www.linkedin.com/in/mozarlima86/
 - ✅ Feedbacks são sempre importantes :D
