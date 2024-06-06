@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Mozar Lima!
 - 👀 Estou construindo minha carreira como desenvolvedor!
-- 🌱 Tenho projetos em Typescript usando Mongoose, Node, Express, JWT e em HTML, CSS, Javascript
+- 🌱 Tenho experiência desenvolvendo projetos em Typescript, Node, Express, MongoDB, HTML, CSS, Javascript, Github, Jest, TDD, ESLint
 - 🔥 Estou cursando a Formação Fullstack da Árnia, e tenho a certeza que é só o começo!
 - 🔗 Estou no LinkedIn também, link do perfil: https://www.linkedin.com/in/mozarlima86/
 - 🔗 Se quiser me mandar um e-mail, é o mozarfrancisco@gmail.com
